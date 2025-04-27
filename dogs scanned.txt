@@ -1,0 +1,60 @@
+Affenpinscher
+Afghan Hound
+African Hunting Dog
+Airedale Terrier
+American Staffordshire Terrier
+Appenzeller Sennenhund
+Australian Terrier
+Basenji
+Basset Hound
+Beagle
+Bedlington Terrier
+Bernese Mountain Dog
+Black and Tan Coonhound
+Cavalier King Charles Spaniel
+Bloodhound
+Bluetick Coonhound
+Border Collie
+Border Terrier
+Borzoi
+Boston Terrier
+Bouvier Des Flandres
+Boxer
+Brussels Griffon
+Briard
+Brittany
+Bullmastiff
+Cairn Terrier
+Cardigan Welsh Corgi
+Chesapeake Bay Retriever
+Chihuahua
+Chow Chow
+Clumber Spaniel
+Cocker Spaniel
+Collie
+Curly-Coated Retriever
+Dandie Dinmont Terrier
+Dhole
+Dingo
+Doberman Pinscher
+English Foxhound
+English Setter
+English Springer Spaniel
+Entlebucher Mountain Dog
+Canadian Eskimo Dog
+Flat-Coated Retriever
+French Bulldog
+German Shepherd
+German Shorthaired Pointer
+Giant Schnauzer
+Golden Retriever
+Gordon Setter
+Great Dane
+Great Pyrenees
+Greater Swiss Mountain Dog
+Belgian Sheepdog
+Ibizan Hound
+Irish Setter
+Irish Terrier
+Irish Water Spaniel
+
